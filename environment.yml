@@ -16,5 +16,5 @@ dependencies:
   - tqdm
   - plotly
   - ipykernel
-  - optuna  # <--- ADD THIS LINE
+  - optuna
   - pip
